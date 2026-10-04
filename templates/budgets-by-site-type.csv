@@ -1,0 +1,36 @@
+site_type,metric,mobile_budget,desktop_budget,priority,notes
+E-Commerce,LCP,2000,1500,Critical,Product images are usually LCP
+E-Commerce,INP,150,100,Critical,Cart filters search must feel instant
+E-Commerce,CLS,0.05,0.05,Critical,Strict — shifts cause misclicks
+E-Commerce,FCP,1500,1200,High,
+E-Commerce,TBT,150,100,High,
+E-Commerce,Speed Index,3000,2500,Medium,
+E-Commerce,Performance Score,90,95,High,
+Agency Client Sites,LCP,2500,2000,Critical,Standard default; tighten after optimisation
+Agency Client Sites,INP,200,150,High,
+Agency Client Sites,CLS,0.10,0.10,Critical,Watch ads lazy images fonts
+Agency Client Sites,FCP,1800,1500,High,
+Agency Client Sites,TBT,200,150,Medium,
+Agency Client Sites,Speed Index,3400,2800,Medium,
+Agency Client Sites,Performance Score,90,90,High,
+Content / Blog,LCP,2500,2000,Critical,
+Content / Blog,INP,200,200,Medium,
+Content / Blog,CLS,0.10,0.10,High,
+Content / Blog,FCP,1800,1500,High,
+Content / Blog,TBT,200,200,Low,
+Content / Blog,Speed Index,3400,3000,Medium,
+Content / Blog,Performance Score,90,90,High,
+SaaS / Web Apps,LCP,2500,2000,High,
+SaaS / Web Apps,INP,100,75,Critical,App interactions must feel native
+SaaS / Web Apps,CLS,0.05,0.05,Critical,
+SaaS / Web Apps,FCP,1500,1200,High,
+SaaS / Web Apps,TBT,150,100,Critical,
+SaaS / Web Apps,Speed Index,3000,2500,Medium,
+SaaS / Web Apps,Performance Score,85,90,High,85 mobile is realistic for JS-heavy apps
+Landing Pages,LCP,2000,1500,Critical,
+Landing Pages,INP,150,100,Medium,
+Landing Pages,CLS,0.05,0.05,Critical,
+Landing Pages,FCP,1200,1000,Critical,
+Landing Pages,TBT,100,50,High,
+Landing Pages,Speed Index,2500,2000,High,
+Landing Pages,Performance Score,95,98,Critical,

@@ -1,0 +1,8 @@
+metric,good,needs_improvement,poor,unit,notes
+LCP,<=2500,2500-4000,>4000,ms,lower is better
+INP,<=200,200-500,>500,ms,lower is better
+CLS,<=0.10,0.10-0.25,>0.25,score,lower is better
+FCP,<=1800,1800-3000,>3000,ms,lower is better
+TBT,<=200,200-600,>600,ms,lower is better
+Speed Index,<=3400,3400-5800,>5800,ms,lower is better
+Performance Score,>=90,50-89,<=49,points,higher is better

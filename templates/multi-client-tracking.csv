@@ -1,0 +1,6 @@
+client,domain,page,strategy,lcp_budget,lcp_actual,lcp_status,inp_budget,inp_actual,inp_status,cls_budget,cls_actual,cls_status,score_budget,score_actual,score_status,last_tested
+Acme Corp,acme.com,Homepage,Mobile,2500,2100,OK,200,180,OK,0.10,0.05,OK,90,92,OK,2026-02-10
+Acme Corp,acme.com,Homepage,Desktop,2000,1400,OK,150,95,OK,0.10,0.02,OK,90,96,OK,2026-02-10
+Acme Corp,acme.com,Pricing,Mobile,2500,3200,OVER,200,220,OVER,0.10,0.15,OVER,90,71,OVER,2026-02-10
+Widget Co,widgets.io,Homepage,Mobile,2500,1900,OK,200,160,OK,0.10,0.08,OK,90,94,OK,2026-02-10
+Widget Co,widgets.io,Shop,Mobile,2000,2800,OVER,150,190,OVER,0.05,0.12,OVER,90,67,OVER,2026-02-10
